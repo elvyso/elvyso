@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elvyso
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in cyber security, devsecops
 - 🌱 I’m currently learning Japanese
 
 
